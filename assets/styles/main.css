@@ -1,0 +1,49 @@
+h1 {
+  color: #954535;
+  font-family: cursive;
+}
+
+body {
+  font-family: "Arial";
+  text-align: center;
+}
+
+.butter {
+  color: yellow;
+}
+
+.brown-sugar {
+  color: brown;
+}
+
+.white-sugar {
+  color: black;
+}
+
+.pudding-powder: {
+  color: beige;
+}
+
+.milk {
+  color: #BFBF3F;
+}
+
+.vanilla-extract {
+  color: #8C8C72;
+}
+
+.eggs {
+  color: #728C8C
+}
+
+.flour {
+  color: #7F728C
+}
+
+.baking-soda {
+  color:#727F8C;
+}
+
+.salt {
+  color: #727F8C;
+}
