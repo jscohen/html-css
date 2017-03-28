@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+ul {
+  font-size: 18px;
+  font-style: italic;
+}
+
+.indent {
+  margin-left: 20px;
+  margin-top: 20px;
+  line-height: 1.5;
+}
+
+.food-img {
+  width: 100px;
+  height: 100px;
+}
+
+.contact-form {
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid black;
+}
+
+input {
+  padding: 5px;
+  margin-left: 10px;
+}
